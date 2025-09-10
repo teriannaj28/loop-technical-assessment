@@ -1,0 +1,11 @@
+{
+        "demoApp": "https://animated-gingersnap-8cf7f2.netlify.app/",
+        "credentials": {
+                "email": "admin",
+                "password": "password123"
+        },
+        "projects": {
+                "webApp": "Main web application development",
+                "mobileApp": "Native mobile app development"
+        }
+}

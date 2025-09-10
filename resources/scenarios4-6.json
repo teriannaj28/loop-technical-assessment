@@ -1,0 +1,16 @@
+[
+    { "column": "To Do",
+      "expected": "Push notification system",
+      "tagsExpected": ["Feature"]
+    },
+
+    { "column": "In Progress",
+      "expected": "Offline mode",
+      "tagsExpected": ["Feature", "High Priority"]
+    },
+
+    { "column": "Done",
+      "expected": "App icon design",
+      "tagsExpected": ["Design"]
+    }
+  ]
